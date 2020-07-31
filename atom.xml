@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.licarus.com</id>
+    <title>Licarus&apos;s Blog</title>
+    <updated>2020-07-31T22:53:28.896Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.licarus.com"/>
+    <link rel="self" href="https://blog.licarus.com/atom.xml"/>
+    <subtitle>嘛，Gridea还蛮好玩的</subtitle>
+    <logo>https://blog.licarus.com/images/avatar.png</logo>
+    <icon>https://blog.licarus.com/favicon.ico</icon>
+    <rights>All rights reserved 2020, Licarus&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[人 与 人 不 能 一 概 而 论]]></title>
+        <id>https://blog.licarus.com/ren-yu-ren-bu-neng-yi-gai-er-lun/</id>
+        <link href="https://blog.licarus.com/ren-yu-ren-bu-neng-yi-gai-er-lun/">
+        </link>
+        <updated>2020-07-31T09:58:15.000Z</updated>
+    </entry>
+</feed>
